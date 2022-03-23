@@ -1,15 +1,15 @@
 # Node-JS-Task
 
-Pre-requisites
+# Pre-requisites
 Install Node.js version 17.0.1
 
-Getting started
+# Getting started
 
 Clone the repository
 
 git clone  <git lab template url> <project_name>
 
-Install dependencies
+# Install dependencies
 
 cd <project_name>
 
@@ -23,7 +23,8 @@ nodemon
 
 Navigate to http://localhost:5000
 
-API Document endpoints
-
+## API Document endpoints
+POST Endpoint 
 job Endpoint :http://localhost:5000/api/jobs/create
-
+iF endpoint return " success : true " so record is stored 
+else "message: "Error saving job" " something went wrong 
