@@ -2,6 +2,7 @@
 
 # Pre-requisites
 Install Node.js version 17.0.1
+database monogoDB 
 
 # Getting started
 
